@@ -67,6 +67,9 @@ Find Users Who Rated at Least 50 Movies and Their Favourite Genres
 -Group by user ID and count ratings
 Filter users with at least 50 ratings
 Join with users DataFrame
+
+
+Hadoop seems lagging, so restart is needed and the analysis will be continued tomorrow
 Find Users Younger than 20 Years Old
 -Filter users DataFrame by age < 20
 Find Users with Occupation "Scientist" Aged 30-40
