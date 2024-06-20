@@ -1,5 +1,9 @@
 # Data_Management_Project4
 
+![image](https://github.com/radzmi/Data_Management_Project4/assets/152348714/3c234852-bcb7-4fe8-9b98-045771f4e534)
+
+The image is just to show image uploading capability
+
 This Project will tackle cassandra and spark2 simutaneously
 
 19/6/2024
