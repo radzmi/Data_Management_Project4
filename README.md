@@ -1,6 +1,6 @@
 # Data_Management_Project4
 
-                              ![image](https://github.com/radzmi/Data_Management_Project4/assets/152348714/b43fa938-27be-458c-8253-6d82db761545)
+![image](https://github.com/radzmi/Data_Management_Project4/assets/152348714/b43fa938-27be-458c-8253-6d82db761545)
 
 “You either die a hero or live long enough to become the villain.” - Harvey Dent in The Dark Knight
 
