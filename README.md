@@ -44,9 +44,21 @@ Insights:
 
 
 
+![Q4](https://github.com/radzmi/Data_Management_Project4/assets/152348714/bc75f39d-fb85-4ca3-b1ab-b85a61909f1f)
+
+Insights:
+- Youth and Students: The data indicates a high concentration of young students, which may suggest that the preferences and ratings in the dataset are heavily influenced by this demographic.
+- Gender Balance: There is a relatively balanced gender representation, which helps in ensuring that the data captures a broad range of preferences and opinions from both male and female perspectives.
+- Geographical Diversity: Users are from various regions, providing a diverse geographical perspective. This can help in understanding regional preferences and trends in movie ratings and genres.
+- Student Influence: Since all users are students, it might be interesting to explore if their movie preferences lean towards specific genres that are popular among younger audiences, such as action, comedy, or adventure.
 
 
+![Q5](https://github.com/radzmi/Data_Management_Project4/assets/152348714/eb70cead-e569-4952-ab61-a3c32b4ee33d)
 
+Insights:
+- Age and Profession: This dataset segment consists of middle-aged professionals in the field of science. Their movie preferences might lean towards intellectually stimulating content, such as documentaries, science fiction, and drama.
+- Gender Homogeneity: All the users in this subset are male. This could impact the diversity of movie preferences and ratings within this group.
+- Geographic Spread: The scientists are located in various regions, from the East Coast (North Carolina, New York) to the Midwest (Illinois, Wisconsin) and the West Coast (Washington). This geographic diversity can influence the cultural and regional preferences in movie ratings.
 
 
 
