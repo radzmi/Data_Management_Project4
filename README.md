@@ -31,3 +31,29 @@ Insights:
 - Notable Directors: Several of these films are directed by renowned filmmakers, such as Steven Spielberg ("Schindler's List"), Frank Darabont ("The Shawshank Redemption"), and Alfred Hitchcock ("Rear Window"). Their presence underscores the influence of visionary directors in creating highly rated and memorable movies.
 - Strong Narratives: Movies like "The Shawshank Redemption," "12 Angry Men," and "Schindler's List" are known for their powerful narratives and compelling characters, which likely contribute to their high ratings and lasting impact on audiences.
 
+
+
+<img width="158" alt="Q3" src="https://github.com/radzmi/Data_Management_Project4/assets/152348714/b9e25608-37d4-46e2-9f02-b7a1d42514ce">
+
+Insights:
+- High Engagement: Users 85 and 833 are the most engaged with Action movies, having rated 4,912 and 4,535 movies respectively. This indicates a strong preference for the Action genre among these users.
+- Consistent Viewership: All listed users have rated over 1,000 Action movies, showing a consistent interest in this genre.
+- Potential Influencers: Users with high counts of ratings in a specific genre, like user 85 and user 833, could be considered influential in shaping the perception of Action movies within the dataset. Their ratings could have a significant impact on the average ratings and recommendations for this genre.
+- Genre Popularity: The high number of ratings for Action movies by these users suggests that the Action genre is quite popular and widely watched within this dataset. It may also imply a larger trend among other users.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
