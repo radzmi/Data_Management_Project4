@@ -20,3 +20,14 @@ Insights:
 - Perfect Ratings: All these movies have an average rating of 5.0, indicating that they have received perfect scores from all users who rated them. This could be due to several reasons such as niche appeal, high-quality content, or a small number of ratings leading to a perfect average.
 - Variety of Genres: The list includes a wide range of genres and types, from documentaries like "Marlene Dietrich: Shadow and Light" to family movies like "Star Kid" and niche films like "Aiqing wansui."
 Historical and Biographical Films: Several of these top-rated movies are historical or biographical in nature, such as "Prefontaine" and "Entertaining Angels: The Dorothy Day Story," suggesting that audiences may highly value well-made films in these genres.
+
+
+![Q2](https://github.com/radzmi/Data_Management_Project4/assets/152348714/8477548d-a21a-4999-89bc-b4095526c9fa)
+
+Insights:
+- Consistently High Ratings: All these movies have exceptionally high average ratings, with scores ranging from 4.34 to 4.49. This indicates they are widely acclaimed and beloved by audiences.
+- Classic Films: Many of these movies are considered classics, such as "Casablanca," "Rear Window," and "12 Angry Men." Their enduring popularity reflects their significant impact on cinema history and their timeless appeal.
+- Diverse Genres: The list includes a variety of genres, from animated shorts like "A Close Shave" to epic historical dramas like "Schindler's List," thrillers like "The Usual Suspects," and sci-fi adventures like "Star Wars." This diversity highlights the universal appeal of well-crafted storytelling across different types of films.
+- Notable Directors: Several of these films are directed by renowned filmmakers, such as Steven Spielberg ("Schindler's List"), Frank Darabont ("The Shawshank Redemption"), and Alfred Hitchcock ("Rear Window"). Their presence underscores the influence of visionary directors in creating highly rated and memorable movies.
+- Strong Narratives: Movies like "The Shawshank Redemption," "12 Angry Men," and "Schindler's List" are known for their powerful narratives and compelling characters, which likely contribute to their high ratings and lasting impact on audiences.
+
